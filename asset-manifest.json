@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.908a06bb.css",
+    "main.js": "/static/js/main.ba96e675.js",
+    "static/media/valentines.png": "/static/media/valentines.15a122712f647f5d4c0b.png",
+    "static/media/letter.png": "/static/media/letter.de37e9722ab08e50e4af.png",
+    "static/media/image3.jpg": "/static/media/image3.45170158ea66266e9380.jpg",
+    "static/media/image1.jpg": "/static/media/image1.bbe9222dc3811e72bd37.jpg",
+    "static/media/image6.jpg": "/static/media/image6.f873415343e696b915b5.jpg",
+    "static/media/image5.jpg": "/static/media/image5.ce40d6cded997042e437.jpg",
+    "static/media/image4.jpg": "/static/media/image4.af3fe66ed65522f5dd54.jpg",
+    "static/media/1stEver.jpg": "/static/media/1stEver.6441e4bc3a352c7b8600.jpg",
+    "static/media/heartClosed-removebg-preview.png": "/static/media/heartClosed-removebg-preview.c794fa5444dcf54a9509.png",
+    "static/media/heartOpen-removebg-preview.png": "/static/media/heartOpen-removebg-preview.1e1a4303c15b53edba7c.png",
+    "index.html": "/index.html",
+    "main.908a06bb.css.map": "/static/css/main.908a06bb.css.map",
+    "main.ba96e675.js.map": "/static/js/main.ba96e675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.908a06bb.css",
+    "static/js/main.ba96e675.js"
+  ]
+}
